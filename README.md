@@ -15,6 +15,5 @@
 | Wow     | It's works  |
  | Really  | Yay         | 
 
-
-![](D:\Documents\Desktop\python-powered-w-200x80.png)
+<img height="80" src="D:\Documents\Desktop\Projects\SDAtraining\python-powered-w-200x80.png" width="200"/>
 
