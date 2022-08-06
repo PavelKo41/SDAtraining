@@ -5,7 +5,7 @@
 
 [Link to my GitHub] https://github.com/PavelKo41/SDAtraining
 
-<img height="50" src="D:\Documents\Desktop\Projects\SDAtraining\Test picture.jpg" title="Test python picture" width="50"/> 
+<img height="75" src="D:\Documents\Desktop\Projects\SDAtraining\Test picture.jpg" title="" width="75"/> 
 
 
 
