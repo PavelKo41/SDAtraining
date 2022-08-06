@@ -12,4 +12,5 @@
 | Wow     | It's works  |
  | Really  | Yay         | 
 
+<img alt="Test" height="200" src="&quot;D:\Documents\Desktop\Projects\SDAtraining\Test picture.jpg&quot;" width="200"/>
 
