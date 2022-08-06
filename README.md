@@ -5,8 +5,7 @@
 
 [Link to my GitHub] https://github.com/PavelKo41/SDAtraining
 
-![Test Picture of python] (https://en.wikiversity.org/wiki/Python#/media/File:Python.svg)
-
+<img height="50" src="D:\Documents\Desktop\Projects\SDAtraining\Test picture.jpg" title="Test python picture" width="50"/> 
 
 
 
