@@ -29,4 +29,12 @@ for mark in marks:
         grade.append('C')
     else:
         grade.append('Fail')
+
 print(grade)
+
+"""
+Ternary operators / conditional expressions
+<<value_if_true>> if <<condition>> else <<value_if_false>>
+"""
+print("not equal") if 10 != 5 else print("equals")
+
