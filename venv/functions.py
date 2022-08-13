@@ -54,3 +54,16 @@ def get_shape(len, breadth):
 
 get_shape(len=10, breadth=10)
 # get_shape (10, 10) odno i toze
+
+"""
+Default value:
+
+You can have default values for your functions, such that, if no argument is passed, the default value is used
+"""
+
+def isogram(word):
+    l = [x for x in word]
+    if len(set(l)) == len(l):
+        return True
+    else:
+        return False
