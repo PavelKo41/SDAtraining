@@ -46,10 +46,16 @@ class has methods - functions defined in the body of the class.
 - max passengers 
 - name 
 
-2) def <<method_name>>(self, <<any_parameter>>)
+2) def <<method_name>>(self, <<any_parameter>>):
+
+Instance variables are for data unique to each instance # nazna4aew dla 1
+class variables are for attributes and methods shared by all instances of the class 
+# naprimer napisat accelerate = 15 do def init naprimer, to  vsegda vsem budet naznachat 15 
+
 """
 
 class Car:
+    #accelerate = 15 # class variable
     def __init__(self, name, num_doors=4, exotic = False):
         self.name = name #says, that is it class attribute
         self.door_no = num_doors
